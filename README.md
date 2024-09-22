@@ -18,7 +18,7 @@
 
 -> [Xcode Cloud ile App Store Connect’te Build Alma](https://medium.com/@mert.ma246/xcode-cloud-ile-app-store-connectte-build-alma-d6aa6dbc4c54)
 
-[<img src="https://medium.com/@mert.ma246/xcode-cloud-ile-app-store-connectte-build-alma-d6aa6dbc4c54" alt="SwiftUI ile Lock Screen Widgets | App Groups Kullanımı" width="500px">](https://medium.com/@mert.ma246/swiftui-ile-lock-screen-widgets-app-groups-kullanımı-28b4d0e965a9)
+[<img src="https://medium.com/@mert.ma246/xcode-cloud-ile-app-store-connectte-build-alma-d6aa6dbc4c54" alt="SwiftUI ile Lock Screen Widgets | App Groups Kullanımı" width="500px">]([https://medium.com/@mert.ma246/swiftui-ile-lock-screen-widgets-app-groups-kullanımı-28b4d0e965a9](https://medium.com/@mert.ma246/xcode-cloud-ile-app-store-connectte-build-alma-d6aa6dbc4c54))
 
 ---
 
